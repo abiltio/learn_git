@@ -1,7 +1,7 @@
+print('blue is the color')
+print('football is the game')
 print('chelsea')
-print('chelsea')
-print('chelsea')
-print("MI")
+print("Cold Palmer")
 
 def add(a, b):
     return a + b
